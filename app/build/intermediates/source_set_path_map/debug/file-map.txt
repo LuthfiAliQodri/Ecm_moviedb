@@ -1,0 +1,26 @@
+com.kelompok2.moviedb.app-recyclerview-1.1.0-0 /Users/laok112/.gradle/caches/transforms-3/25ed996df862323c127cde05ad91527d/transformed/recyclerview-1.1.0/res
+com.kelompok2.moviedb.app-transition-1.2.0-1 /Users/laok112/.gradle/caches/transforms-3/36954b1a3b485126a3e07ac6cb385acc/transformed/transition-1.2.0/res
+com.kelompok2.moviedb.app-fragment-1.2.0-2 /Users/laok112/.gradle/caches/transforms-3/4b496eec4f12215e288c6722da3a086b/transformed/fragment-1.2.0/res
+com.kelompok2.moviedb.app-cardview-1.0.0-3 /Users/laok112/.gradle/caches/transforms-3/4efdf18e702571400a47769ef742b17f/transformed/cardview-1.0.0/res
+com.kelompok2.moviedb.app-jetified-appcompat-resources-1.2.0-4 /Users/laok112/.gradle/caches/transforms-3/862b1d19a45f85f8a5c185da4c5c1f98/transformed/jetified-appcompat-resources-1.2.0/res
+com.kelompok2.moviedb.app-jetified-diagonallayout-1.0.9-5 /Users/laok112/.gradle/caches/transforms-3/86c1e8e09dcbd2b1f1fb2a476818966f/transformed/jetified-diagonallayout-1.0.9/res
+com.kelompok2.moviedb.app-coordinatorlayout-1.1.0-6 /Users/laok112/.gradle/caches/transforms-3/89ce2ef11d6304247b119942db6759cd/transformed/coordinatorlayout-1.1.0/res
+com.kelompok2.moviedb.app-material-1.2.0-7 /Users/laok112/.gradle/caches/transforms-3/9078be4da612cd613bcc05ca243ad822/transformed/material-1.2.0/res
+com.kelompok2.moviedb.app-core-1.3.0-8 /Users/laok112/.gradle/caches/transforms-3/9a5ea9ef616d09030c5518be1b4f76b4/transformed/core-1.3.0/res
+com.kelompok2.moviedb.app-jetified-materialfavoritebutton-0.1.5-9 /Users/laok112/.gradle/caches/transforms-3/a90580d79c46b5b01fd80b7bc9cd5c43/transformed/jetified-materialfavoritebutton-0.1.5/res
+com.kelompok2.moviedb.app-jetified-bubblenavigation-1.0.7-10 /Users/laok112/.gradle/caches/transforms-3/b5a08c4f1525b6007df2a6844d783cd8/transformed/jetified-bubblenavigation-1.0.7/res
+com.kelompok2.moviedb.app-jetified-android-networking-1.0.2-11 /Users/laok112/.gradle/caches/transforms-3/c047232af7607f8045dbfb520c2e2603/transformed/jetified-android-networking-1.0.2/res
+com.kelompok2.moviedb.app-jetified-viewpager2-1.0.0-12 /Users/laok112/.gradle/caches/transforms-3/ce344135503337b2a26830435a14e85b/transformed/jetified-viewpager2-1.0.0/res
+com.kelompok2.moviedb.app-jetified-glide-4.11.0-13 /Users/laok112/.gradle/caches/transforms-3/cffce63221b616305c6933d2582d131b/transformed/jetified-glide-4.11.0/res
+com.kelompok2.moviedb.app-constraintlayout-1.1.3-14 /Users/laok112/.gradle/caches/transforms-3/de747e08719ecdd8c7ec869e5abd4309/transformed/constraintlayout-1.1.3/res
+com.kelompok2.moviedb.app-appcompat-1.2.0-15 /Users/laok112/.gradle/caches/transforms-3/e62144d3c1d43b0c8eb0144220a05eab/transformed/appcompat-1.2.0/res
+com.kelompok2.moviedb.app-jetified-card-slider-0.3.1-16 /Users/laok112/.gradle/caches/transforms-3/e8091b85b11174a2b544578719896a1d/transformed/jetified-card-slider-0.3.1/res
+com.kelompok2.moviedb.app-media-1.0.0-17 /Users/laok112/.gradle/caches/transforms-3/f31be08242c03f0758ea07973d00944f/transformed/media-1.0.0/res
+com.kelompok2.moviedb.app-pngs-18 /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/build/generated/res/pngs/debug
+com.kelompok2.moviedb.app-resValues-19 /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/build/generated/res/resValues/debug
+com.kelompok2.moviedb.app-rs-20 /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/build/generated/res/rs/debug
+com.kelompok2.moviedb.app-mergeDebugResources-21 /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.kelompok2.moviedb.app-mergeDebugResources-22 /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.kelompok2.moviedb.app-merged_res-23 /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/build/intermediates/merged_res/debug
+com.kelompok2.moviedb.app-debug-24 /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/debug/res
+com.kelompok2.moviedb.app-main-25 /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/res

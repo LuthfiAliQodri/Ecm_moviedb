@@ -1,0 +1,309 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/laok112/.gradle/caches/transforms-3/e3a6ae3e1c341598946b250e2a7ae26c/transformed/jetified-realm-android-library-object-server-5.1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.ramotion.cardslider:card-slider:0.3.1] /Users/laok112/.gradle/caches/transforms-3/e8091b85b11174a2b544578719896a1d/transformed/jetified-card-slider-0.3.1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.material:material:1.2.0] /Users/laok112/.gradle/caches/transforms-3/9078be4da612cd613bcc05ca243ad822/transformed/material-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /Users/laok112/.gradle/caches/transforms-3/c047232af7607f8045dbfb520c2e2603/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:18:1-27:12
+MERGED from [com.github.florent37:diagonallayout:1.0.9] /Users/laok112/.gradle/caches/transforms-3/86c1e8e09dcbd2b1f1fb2a476818966f/transformed/jetified-diagonallayout-1.0.9/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/laok112/.gradle/caches/transforms-3/e62144d3c1d43b0c8eb0144220a05eab/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/laok112/.gradle/caches/transforms-3/4efdf18e702571400a47769ef742b17f/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/laok112/.gradle/caches/transforms-3/ce344135503337b2a26830435a14e85b/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/laok112/.gradle/caches/transforms-3/25ed996df862323c127cde05ad91527d/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/laok112/.gradle/caches/transforms-3/de747e08719ecdd8c7ec869e5abd4309/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/laok112/.gradle/caches/transforms-3/f3492a24da83fb86d801fbb7bf3e732d/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/laok112/.gradle/caches/transforms-3/2abf17682b2bccda13237999e0b308bf/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.gauravk.bubblenavigation:bubblenavigation:1.0.7] /Users/laok112/.gradle/caches/transforms-3/b5a08c4f1525b6007df2a6844d783cd8/transformed/jetified-bubblenavigation-1.0.7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.ivbaranov:materialfavoritebutton:0.1.5] /Users/laok112/.gradle/caches/transforms-3/a90580d79c46b5b01fd80b7bc9cd5c43/transformed/jetified-materialfavoritebutton-0.1.5/AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/laok112/.gradle/caches/transforms-3/cffce63221b616305c6933d2582d131b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/laok112/.gradle/caches/transforms-3/8a822fe7ccd9fa5d52159b8f01332bc6/transformed/jetified-relinker-1.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/laok112/.gradle/caches/transforms-3/862b1d19a45f85f8a5c185da4c5c1f98/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/laok112/.gradle/caches/transforms-3/1a705dfc7db9f52352e2dd89ef7d2f8f/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/laok112/.gradle/caches/transforms-3/4fda75c02afbf6d88717668a98b6d3ae/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/laok112/.gradle/caches/transforms-3/89ce2ef11d6304247b119942db6759cd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/laok112/.gradle/caches/transforms-3/4b496eec4f12215e288c6722da3a086b/transformed/fragment-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/laok112/.gradle/caches/transforms-3/b0f172e4e0b926d687ae3546ff16e6df/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/laok112/.gradle/caches/transforms-3/9deaa3e82237375eed3cd2d5c27c0442/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/laok112/.gradle/caches/transforms-3/7ff8b41321426645051de4ed70e7d3da/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/laok112/.gradle/caches/transforms-3/f31be08242c03f0758ea07973d00944f/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/laok112/.gradle/caches/transforms-3/f5e85791ad14037cd5c7a558c5aeea3c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/laok112/.gradle/caches/transforms-3/36954b1a3b485126a3e07ac6cb385acc/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/laok112/.gradle/caches/transforms-3/986f265da5b9c353e93aa1c38845599c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/laok112/.gradle/caches/transforms-3/d0e550715430e1a96412564651158d7f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/laok112/.gradle/caches/transforms-3/72e84cc37b9f4be874f9b96285765375/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/laok112/.gradle/caches/transforms-3/386accad0a4958e181d87038b103960d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/laok112/.gradle/caches/transforms-3/015b71096993e2ac0b6685f5513ef651/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/laok112/.gradle/caches/transforms-3/929a7425cb3598ddd303c56c664116b0/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] /Users/laok112/.gradle/caches/transforms-3/9a5ea9ef616d09030c5518be1b4f76b4/transformed/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/laok112/.gradle/caches/transforms-3/c9587ccc13d1518b9fe32b4a794ca828/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/laok112/.gradle/caches/transforms-3/5417f4af00c68045ae0296387ccb31af/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/laok112/.gradle/caches/transforms-3/704203cdb21111d9a616096d85dd4f79/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/laok112/.gradle/caches/transforms-3/69aa561d07cdf0d9aa68a2313397bfa0/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/laok112/.gradle/caches/transforms-3/f144bc2425ade2bb590907d36f0d6852/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/laok112/.gradle/caches/transforms-3/eaa0fc306305da6cbd7a54ad22da1d18/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/laok112/.gradle/caches/transforms-3/b43ddbc1c40b8b49dd8b67d5448b615c/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/laok112/.gradle/caches/transforms-3/9295f76e09ee570887fb9ea705e5c522/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/laok112/.gradle/caches/transforms-3/472308544d244f0299b4a1cd39a16629/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/laok112/.gradle/caches/transforms-3/21d76c3701f77dd29f6cb7a71a439488/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/laok112/.gradle/caches/transforms-3/624f4e70300a0fbff11529f3e739cf4f/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/laok112/.gradle/caches/transforms-3/852290a310c40988aef33a685e7f6445/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laok112/.gradle/caches/transforms-3/efcbbfd6972e4d32fa6ebafea2c8270d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/laok112/.gradle/caches/transforms-3/10261ea6219a43025937cb2c5506529f/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/laok112/.gradle/caches/transforms-3/943f7360984b6fc00334877b6a996f43/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/laok112/.gradle/caches/transforms-3/23200f4c453d256fef0c1700fdff4670/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/laok112/.gradle/caches/transforms-3/38e189ffa915ae7b37623f833403e859/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/laok112/.gradle/caches/transforms-3/a0c802183e4dfdb1fb662340b2e8c55d/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:4:5-36
+		INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/laok112/.gradle/caches/transforms-3/e3a6ae3e1c341598946b250e2a7ae26c/transformed/jetified-realm-android-library-object-server-5.1.0/AndroidManifest.xml:11:5-67
+MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/laok112/.gradle/caches/transforms-3/e3a6ae3e1c341598946b250e2a7ae26c/transformed/jetified-realm-android-library-object-server-5.1.0/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:8:22-63
+application
+ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:10:5-43:19
+MERGED from [com.ramotion.cardslider:card-slider:0.3.1] /Users/laok112/.gradle/caches/transforms-3/e8091b85b11174a2b544578719896a1d/transformed/jetified-card-slider-0.3.1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.ramotion.cardslider:card-slider:0.3.1] /Users/laok112/.gradle/caches/transforms-3/e8091b85b11174a2b544578719896a1d/transformed/jetified-card-slider-0.3.1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.material:material:1.2.0] /Users/laok112/.gradle/caches/transforms-3/9078be4da612cd613bcc05ca243ad822/transformed/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0] /Users/laok112/.gradle/caches/transforms-3/9078be4da612cd613bcc05ca243ad822/transformed/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/laok112/.gradle/caches/transforms-3/de747e08719ecdd8c7ec869e5abd4309/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/laok112/.gradle/caches/transforms-3/de747e08719ecdd8c7ec869e5abd4309/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/laok112/.gradle/caches/transforms-3/2abf17682b2bccda13237999e0b308bf/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/laok112/.gradle/caches/transforms-3/2abf17682b2bccda13237999e0b308bf/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/laok112/.gradle/caches/transforms-3/cffce63221b616305c6933d2582d131b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/laok112/.gradle/caches/transforms-3/cffce63221b616305c6933d2582d131b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.0] /Users/laok112/.gradle/caches/transforms-3/9a5ea9ef616d09030c5518be1b4f76b4/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/laok112/.gradle/caches/transforms-3/9a5ea9ef616d09030c5518be1b4f76b4/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/laok112/.gradle/caches/transforms-3/5417f4af00c68045ae0296387ccb31af/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/laok112/.gradle/caches/transforms-3/5417f4af00c68045ae0296387ccb31af/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/laok112/.gradle/caches/transforms-3/624f4e70300a0fbff11529f3e739cf4f/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/laok112/.gradle/caches/transforms-3/624f4e70300a0fbff11529f3e739cf4f/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laok112/.gradle/caches/transforms-3/efcbbfd6972e4d32fa6ebafea2c8270d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laok112/.gradle/caches/transforms-3/efcbbfd6972e4d32fa6ebafea2c8270d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/laok112/.gradle/caches/transforms-3/9a5ea9ef616d09030c5518be1b4f76b4/transformed/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:14:9-46
+	android:icon
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:17:9-44
+activity#com.kelompok2.moviedb.activities.SettingActivity
+ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:18:9-85
+	android:name
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:18:19-82
+activity#com.kelompok2.moviedb.activities.DetailMovieActivity
+ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:19:9-89
+	android:name
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:19:19-86
+activity#com.kelompok2.moviedb.activities.DetailTelevisionActivity
+ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:20:9-94
+	android:name
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:20:19-91
+activity#com.kelompok2.moviedb.activities.MainActivity
+ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:21:9-30:20
+	android:windowSoftInputMode
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:24:13-52
+	android:configChanges
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:23:13-74
+	android:name
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:22:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:28:27-74
+receiver#com.kelompok2.moviedb.notification.NotificationReleaseReceiver
+ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:32:9-36:47
+	android:enabled
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:34:13-35
+	android:exported
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:35:13-36
+	tools:ignore
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:33:13-90
+receiver#com.kelompok2.moviedb.notification.NotificationDailyReceiver
+ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:38:9-42:47
+	android:enabled
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:40:13-35
+	android:exported
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:41:13-36
+	tools:ignore
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml:39:13-88
+uses-sdk
+INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/laok112/.gradle/caches/transforms-3/e3a6ae3e1c341598946b250e2a7ae26c/transformed/jetified-realm-android-library-object-server-5.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/laok112/.gradle/caches/transforms-3/e3a6ae3e1c341598946b250e2a7ae26c/transformed/jetified-realm-android-library-object-server-5.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.ramotion.cardslider:card-slider:0.3.1] /Users/laok112/.gradle/caches/transforms-3/e8091b85b11174a2b544578719896a1d/transformed/jetified-card-slider-0.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ramotion.cardslider:card-slider:0.3.1] /Users/laok112/.gradle/caches/transforms-3/e8091b85b11174a2b544578719896a1d/transformed/jetified-card-slider-0.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.2.0] /Users/laok112/.gradle/caches/transforms-3/9078be4da612cd613bcc05ca243ad822/transformed/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0] /Users/laok112/.gradle/caches/transforms-3/9078be4da612cd613bcc05ca243ad822/transformed/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /Users/laok112/.gradle/caches/transforms-3/c047232af7607f8045dbfb520c2e2603/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] /Users/laok112/.gradle/caches/transforms-3/c047232af7607f8045dbfb520c2e2603/transformed/jetified-android-networking-1.0.2/AndroidManifest.xml:23:5-25:41
+MERGED from [com.github.florent37:diagonallayout:1.0.9] /Users/laok112/.gradle/caches/transforms-3/86c1e8e09dcbd2b1f1fb2a476818966f/transformed/jetified-diagonallayout-1.0.9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.florent37:diagonallayout:1.0.9] /Users/laok112/.gradle/caches/transforms-3/86c1e8e09dcbd2b1f1fb2a476818966f/transformed/jetified-diagonallayout-1.0.9/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/laok112/.gradle/caches/transforms-3/e62144d3c1d43b0c8eb0144220a05eab/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/laok112/.gradle/caches/transforms-3/e62144d3c1d43b0c8eb0144220a05eab/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/laok112/.gradle/caches/transforms-3/4efdf18e702571400a47769ef742b17f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/laok112/.gradle/caches/transforms-3/4efdf18e702571400a47769ef742b17f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/laok112/.gradle/caches/transforms-3/ce344135503337b2a26830435a14e85b/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/laok112/.gradle/caches/transforms-3/ce344135503337b2a26830435a14e85b/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/laok112/.gradle/caches/transforms-3/25ed996df862323c127cde05ad91527d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/laok112/.gradle/caches/transforms-3/25ed996df862323c127cde05ad91527d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/laok112/.gradle/caches/transforms-3/de747e08719ecdd8c7ec869e5abd4309/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/laok112/.gradle/caches/transforms-3/de747e08719ecdd8c7ec869e5abd4309/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/laok112/.gradle/caches/transforms-3/f3492a24da83fb86d801fbb7bf3e732d/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/laok112/.gradle/caches/transforms-3/f3492a24da83fb86d801fbb7bf3e732d/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/laok112/.gradle/caches/transforms-3/2abf17682b2bccda13237999e0b308bf/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/laok112/.gradle/caches/transforms-3/2abf17682b2bccda13237999e0b308bf/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.gauravk.bubblenavigation:bubblenavigation:1.0.7] /Users/laok112/.gradle/caches/transforms-3/b5a08c4f1525b6007df2a6844d783cd8/transformed/jetified-bubblenavigation-1.0.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.gauravk.bubblenavigation:bubblenavigation:1.0.7] /Users/laok112/.gradle/caches/transforms-3/b5a08c4f1525b6007df2a6844d783cd8/transformed/jetified-bubblenavigation-1.0.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ivbaranov:materialfavoritebutton:0.1.5] /Users/laok112/.gradle/caches/transforms-3/a90580d79c46b5b01fd80b7bc9cd5c43/transformed/jetified-materialfavoritebutton-0.1.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ivbaranov:materialfavoritebutton:0.1.5] /Users/laok112/.gradle/caches/transforms-3/a90580d79c46b5b01fd80b7bc9cd5c43/transformed/jetified-materialfavoritebutton-0.1.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/laok112/.gradle/caches/transforms-3/cffce63221b616305c6933d2582d131b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/laok112/.gradle/caches/transforms-3/cffce63221b616305c6933d2582d131b/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/laok112/.gradle/caches/transforms-3/8a822fe7ccd9fa5d52159b8f01332bc6/transformed/jetified-relinker-1.2.2/AndroidManifest.xml:7:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/laok112/.gradle/caches/transforms-3/8a822fe7ccd9fa5d52159b8f01332bc6/transformed/jetified-relinker-1.2.2/AndroidManifest.xml:7:5-43
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/laok112/.gradle/caches/transforms-3/862b1d19a45f85f8a5c185da4c5c1f98/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/laok112/.gradle/caches/transforms-3/862b1d19a45f85f8a5c185da4c5c1f98/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/laok112/.gradle/caches/transforms-3/1a705dfc7db9f52352e2dd89ef7d2f8f/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/laok112/.gradle/caches/transforms-3/1a705dfc7db9f52352e2dd89ef7d2f8f/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/laok112/.gradle/caches/transforms-3/4fda75c02afbf6d88717668a98b6d3ae/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/laok112/.gradle/caches/transforms-3/4fda75c02afbf6d88717668a98b6d3ae/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/laok112/.gradle/caches/transforms-3/89ce2ef11d6304247b119942db6759cd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/laok112/.gradle/caches/transforms-3/89ce2ef11d6304247b119942db6759cd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/laok112/.gradle/caches/transforms-3/4b496eec4f12215e288c6722da3a086b/transformed/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/laok112/.gradle/caches/transforms-3/4b496eec4f12215e288c6722da3a086b/transformed/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/laok112/.gradle/caches/transforms-3/b0f172e4e0b926d687ae3546ff16e6df/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/laok112/.gradle/caches/transforms-3/b0f172e4e0b926d687ae3546ff16e6df/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/laok112/.gradle/caches/transforms-3/9deaa3e82237375eed3cd2d5c27c0442/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/laok112/.gradle/caches/transforms-3/9deaa3e82237375eed3cd2d5c27c0442/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/laok112/.gradle/caches/transforms-3/7ff8b41321426645051de4ed70e7d3da/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/laok112/.gradle/caches/transforms-3/7ff8b41321426645051de4ed70e7d3da/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/laok112/.gradle/caches/transforms-3/f31be08242c03f0758ea07973d00944f/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/laok112/.gradle/caches/transforms-3/f31be08242c03f0758ea07973d00944f/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/laok112/.gradle/caches/transforms-3/f5e85791ad14037cd5c7a558c5aeea3c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/laok112/.gradle/caches/transforms-3/f5e85791ad14037cd5c7a558c5aeea3c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/laok112/.gradle/caches/transforms-3/36954b1a3b485126a3e07ac6cb385acc/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/laok112/.gradle/caches/transforms-3/36954b1a3b485126a3e07ac6cb385acc/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/laok112/.gradle/caches/transforms-3/986f265da5b9c353e93aa1c38845599c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/laok112/.gradle/caches/transforms-3/986f265da5b9c353e93aa1c38845599c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/laok112/.gradle/caches/transforms-3/d0e550715430e1a96412564651158d7f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/laok112/.gradle/caches/transforms-3/d0e550715430e1a96412564651158d7f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/laok112/.gradle/caches/transforms-3/72e84cc37b9f4be874f9b96285765375/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/laok112/.gradle/caches/transforms-3/72e84cc37b9f4be874f9b96285765375/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/laok112/.gradle/caches/transforms-3/386accad0a4958e181d87038b103960d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/laok112/.gradle/caches/transforms-3/386accad0a4958e181d87038b103960d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/laok112/.gradle/caches/transforms-3/015b71096993e2ac0b6685f5513ef651/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/laok112/.gradle/caches/transforms-3/015b71096993e2ac0b6685f5513ef651/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/laok112/.gradle/caches/transforms-3/929a7425cb3598ddd303c56c664116b0/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/laok112/.gradle/caches/transforms-3/929a7425cb3598ddd303c56c664116b0/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/laok112/.gradle/caches/transforms-3/9a5ea9ef616d09030c5518be1b4f76b4/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/laok112/.gradle/caches/transforms-3/9a5ea9ef616d09030c5518be1b4f76b4/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/laok112/.gradle/caches/transforms-3/c9587ccc13d1518b9fe32b4a794ca828/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/laok112/.gradle/caches/transforms-3/c9587ccc13d1518b9fe32b4a794ca828/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/laok112/.gradle/caches/transforms-3/5417f4af00c68045ae0296387ccb31af/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/laok112/.gradle/caches/transforms-3/5417f4af00c68045ae0296387ccb31af/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/laok112/.gradle/caches/transforms-3/704203cdb21111d9a616096d85dd4f79/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/laok112/.gradle/caches/transforms-3/704203cdb21111d9a616096d85dd4f79/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/laok112/.gradle/caches/transforms-3/69aa561d07cdf0d9aa68a2313397bfa0/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/laok112/.gradle/caches/transforms-3/69aa561d07cdf0d9aa68a2313397bfa0/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/laok112/.gradle/caches/transforms-3/f144bc2425ade2bb590907d36f0d6852/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/laok112/.gradle/caches/transforms-3/f144bc2425ade2bb590907d36f0d6852/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/laok112/.gradle/caches/transforms-3/eaa0fc306305da6cbd7a54ad22da1d18/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/laok112/.gradle/caches/transforms-3/eaa0fc306305da6cbd7a54ad22da1d18/transformed/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/laok112/.gradle/caches/transforms-3/b43ddbc1c40b8b49dd8b67d5448b615c/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/laok112/.gradle/caches/transforms-3/b43ddbc1c40b8b49dd8b67d5448b615c/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/laok112/.gradle/caches/transforms-3/9295f76e09ee570887fb9ea705e5c522/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/laok112/.gradle/caches/transforms-3/9295f76e09ee570887fb9ea705e5c522/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/laok112/.gradle/caches/transforms-3/472308544d244f0299b4a1cd39a16629/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/laok112/.gradle/caches/transforms-3/472308544d244f0299b4a1cd39a16629/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/laok112/.gradle/caches/transforms-3/21d76c3701f77dd29f6cb7a71a439488/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/laok112/.gradle/caches/transforms-3/21d76c3701f77dd29f6cb7a71a439488/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/laok112/.gradle/caches/transforms-3/624f4e70300a0fbff11529f3e739cf4f/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/laok112/.gradle/caches/transforms-3/624f4e70300a0fbff11529f3e739cf4f/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/laok112/.gradle/caches/transforms-3/852290a310c40988aef33a685e7f6445/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/laok112/.gradle/caches/transforms-3/852290a310c40988aef33a685e7f6445/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laok112/.gradle/caches/transforms-3/efcbbfd6972e4d32fa6ebafea2c8270d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/laok112/.gradle/caches/transforms-3/efcbbfd6972e4d32fa6ebafea2c8270d/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/laok112/.gradle/caches/transforms-3/10261ea6219a43025937cb2c5506529f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/laok112/.gradle/caches/transforms-3/10261ea6219a43025937cb2c5506529f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/laok112/.gradle/caches/transforms-3/943f7360984b6fc00334877b6a996f43/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/laok112/.gradle/caches/transforms-3/943f7360984b6fc00334877b6a996f43/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/laok112/.gradle/caches/transforms-3/23200f4c453d256fef0c1700fdff4670/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/laok112/.gradle/caches/transforms-3/23200f4c453d256fef0c1700fdff4670/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/laok112/.gradle/caches/transforms-3/38e189ffa915ae7b37623f833403e859/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/laok112/.gradle/caches/transforms-3/38e189ffa915ae7b37623f833403e859/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/laok112/.gradle/caches/transforms-3/a0c802183e4dfdb1fb662340b2e8c55d/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/laok112/.gradle/caches/transforms-3/a0c802183e4dfdb1fb662340b2e8c55d/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+		ADDED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laok112/Downloads/TheMovieDB-master/Movie Catalogue/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.realm:realm-android-library-object-server:5.1.0] /Users/laok112/.gradle/caches/transforms-3/e3a6ae3e1c341598946b250e2a7ae26c/transformed/jetified-realm-android-library-object-server-5.1.0/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [io.realm:realm-android-library-object-server:5.1.0] /Users/laok112/.gradle/caches/transforms-3/e3a6ae3e1c341598946b250e2a7ae26c/transformed/jetified-realm-android-library-object-server-5.1.0/AndroidManifest.xml:10:22-76
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/laok112/.gradle/caches/transforms-3/5417f4af00c68045ae0296387ccb31af/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/laok112/.gradle/caches/transforms-3/5417f4af00c68045ae0296387ccb31af/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/laok112/.gradle/caches/transforms-3/5417f4af00c68045ae0296387ccb31af/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/laok112/.gradle/caches/transforms-3/5417f4af00c68045ae0296387ccb31af/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/laok112/.gradle/caches/transforms-3/5417f4af00c68045ae0296387ccb31af/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kelompok2.moviedb.app-mergeDebugResources-21:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/laok112/.gradle/caches/transforms-3/e62144d3c1d43b0c8eb0144220a05eab/transformed/appcompat-1.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

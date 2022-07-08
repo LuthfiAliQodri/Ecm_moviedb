@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/font_jetregular.ttf.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/font/jetregular.ttf"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-xxhdpi_design_header.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-pngs-18:/drawable-xxhdpi/design_header.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-xhdpi_iconapp.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable-xhdpi/iconapp.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/font_monmedium.otf.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/font/monmedium.otf"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_ic_favorite_border.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/ic_favorite_border.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/layout_fragment_favorite.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-hdpi_ic_search.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_bg_overlay.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/bg_overlay.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_notificationbell.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/notificationbell.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-xhdpi_ic_search.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable-xhdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-hdpi_design_header.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-pngs-18:/drawable-hdpi/design_header.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-xhdpi_design_header.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-pngs-18:/drawable-xhdpi/design_header.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_bg_rounded.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/bg_rounded.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_home.jpg.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/home.jpg"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/layout_list_item_film_horizontal.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/layout/list_item_film_horizontal.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-mdpi_design_header.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-pngs-18:/drawable-mdpi/design_header.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_ic_favorite.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.kelompok2.moviedb.app-merged_res-23:/layout_activity_detail.xml.flat",
+        "source": "com.kelompok2.moviedb.app-main-25:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/font_monextrabold.otf.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/font/monextrabold.otf"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-mdpi_ic_search.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable-mdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/layout_toolbar_main.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/layout/toolbar_main.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/font_jetbold.ttf.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/font/jetbold.ttf"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/layout_activity_main.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/layout_list_item_trailer.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/layout/list_item_trailer.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-xxhdpi_ic_search.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable-xxhdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_ic_live_tv.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/ic_live_tv.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-xxxhdpi_design_header.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-pngs-18:/drawable-xxxhdpi/design_header.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_tab_tv_color.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/tab_tv_color.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-pngs-18:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-anydpi_ic_search.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable-anydpi/ic_search.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-anydpi-v24_design_header.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-pngs-18:/drawable-anydpi-v24/design_header.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-ldpi_design_header.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-pngs-18:/drawable-ldpi/design_header.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_ic_image.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/layout_fragment_favorite_film.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/layout/fragment_favorite_film.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/layout_list_item_film.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/layout/list_item_film.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/layout_activity_setting.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_tab_fav_color.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/tab_fav_color.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_bg_search.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_ic_movie.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/ic_movie.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_tab_movie_color.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/tab_movie_color.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable-xxxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/layout_activity_detail.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/drawable_ic_share.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/layout_fragment_film.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/layout/fragment_film.xml"
+    },
+    {
+        "merged": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-merged_res-23:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/laok112/.gradle/daemon/7.3.3/com.kelompok2.moviedb.app-main-25:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
